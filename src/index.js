@@ -21,6 +21,5 @@ for (i=0; i<=matrix.length; i++){
     tempArr = tempArr.concat(reverseArr);
   }
 }
-
 return tempArr;
 }
